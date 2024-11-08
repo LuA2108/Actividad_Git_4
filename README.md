@@ -1,3 +1,1 @@
-# actividad4
-
-Actividades de Github en Entornos de Desarrollo.
+Nombre y apellidos: Lucero Cahuana Cornejo.
